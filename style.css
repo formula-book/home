@@ -63,3 +63,8 @@ td.formula{
     border-radius: 15px;
     border-color:white;
 }
+.profile{
+    position: fixed;
+    top:13px;
+    right:15px;
+}
