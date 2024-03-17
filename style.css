@@ -71,6 +71,6 @@ table, th, td {
     border-collapse: collapse;
     text-align: center;
 }
-h1.unsupported{
+p.unsupported{
     color: white;
 }
